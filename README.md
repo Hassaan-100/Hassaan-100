@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-*Currently learning on technologies to become a Full Stack Developer. <br >
+*Currently learning on technologies as a Full Stack Developer. <br >
 I hope this journey is interesting.*
