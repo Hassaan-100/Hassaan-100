@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-*Currently learning on technologies as a Full Stack Developer. <br >
-I hope this journey is interesting.*
+*Completed Full Stack Bootcamp and ready to land first tech job*
